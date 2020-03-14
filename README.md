@@ -4,13 +4,13 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## 关于我
 
 ```yaml
-remote_theme: niklasbuschmann/contrast@v2.6
+我是小唐，欢迎来到我的博客。你那儿今天天气怎么样，过得还顺利吗？有空一起喝一杯..
 
-plugins:
-  - jekyll-remote-theme
+ps:
+  - 是你浪费在我身上的时间，让我愈加宝贵
 ```
 
 
